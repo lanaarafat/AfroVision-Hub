@@ -3,12 +3,6 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-#banner{
-    background: linear-gradient(rgba(0,0,0,0.5), grey), url(./images/IMG2023-03-28-004714.png);
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-}
 .logo{
     width: 100px;
     position: absolute;
