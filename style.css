@@ -10,7 +10,7 @@
     height: 100vh;
 }
 .logo{
-    width: 100px;
+    width: 50px;
     position: absolute;
     top: 4%;
     left: 7%;
@@ -258,7 +258,7 @@ nav ul li a{
     text-align: left;
     margin-bottom: 10px;
     font-weight: 480;
-    color: #06655c;
+    color: grey;
 }
 .features-desc{
     display: flex;

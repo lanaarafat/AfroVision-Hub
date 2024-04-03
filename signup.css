@@ -381,12 +381,12 @@ hr{
     padding: 70px 0;
 }
 .testimonial-row{
-    width: 80%;
+    /* width: 80%; */
     margin: auto;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 .testimonial-col{
     flex-basis: 28%;
@@ -474,6 +474,11 @@ h2 {
 @media screen and (max-width: 770px){
     .testimonial-col{
         flex-basis: 100%;
+    }
+    .testimonial-row {
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: center;
     }
 }
 
